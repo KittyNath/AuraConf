@@ -31,6 +31,33 @@ chiselsandbits.cfg items B:enableTapeMeasure=false
 
 fastfurnace.cfg general B:"Strict Matching"=true
 
+// FutureMc
+
+futuremc/futuremc.cfg general."update aquatic" B:Trident=false
+
+// GulliverReborn
+
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable hot blocks giving gliding players lift (requires the ability to glide with paper to be enabled)"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable plants slowing down small players"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable rose/poppy thorns"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable scaled fall damage"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the ability for giants to crush small entities"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the ability for small players to be unnoticed by non-ocelots and non-spiders"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the ability to climb some blocks (dirt, grass, leaves, etc)"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the ability to climb with Slimeballs or Slime Blocks"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the ability to glide with paper"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the ability to pick up small entities"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the ability to ride large entities with String"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the harvest speed modifier"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the health modifier"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the jump height modifier"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the reach modifier"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the speed modifier"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the strength modifier"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Player render is more normal at small sizes, but may cause problems with other mods"=true
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" S:"Set the health multiplier"=1.0
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" S:"Set the maximum player size"=10.0
+
 // HarvestCraft
 
 harvestcraft.cfg beekeeping B:enableBeehiveGeneration=false
