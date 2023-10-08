@@ -16,7 +16,6 @@ bibliocraft.cfg "blocks enabled" B:ScrewGun=false
 bibliocraft.cfg "blocks enabled" B:Tapemeasure=false
 bibliocraft.cfg "blocks enabled" B:Typewriter=false
 bibliocraft.cfg "blocks enabled" B:WaypointCompass=false
-
 bibliocraft.cfg general B:EnableCraftingWithRecipieBooks=false
 bibliocraft.cfg general B:EnableLockAndKeyRecipe=false
 
