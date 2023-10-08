@@ -1,3 +1,20 @@
+bibliocraft.cfg "blocks enabled" B:AtlasEternalCompass=false
+bibliocraft.cfg "blocks enabled" B:BigBook=false
+bibliocraft.cfg "blocks enabled" B:DeskBell=false
+bibliocraft.cfg "blocks enabled" B:FancyWorkbench=false
+bibliocraft.cfg "blocks enabled" B:HandDrill=false
+bibliocraft.cfg "blocks enabled" B:Lamp=false
+bibliocraft.cfg "blocks enabled" B:Lantern=false
+bibliocraft.cfg "blocks enabled" B:MapFrame=false
+bibliocraft.cfg "blocks enabled" B:PaintingFrames=false
+bibliocraft.cfg "blocks enabled" B:PlumbLine=false
+bibliocraft.cfg "blocks enabled" B:PrintpressTypeMachine=false
+bibliocraft.cfg "blocks enabled" B:Redstonebook=false
+bibliocraft.cfg "blocks enabled" B:ScrewGun=false
+bibliocraft.cfg "blocks enabled" B:Tapemeasure=false
+bibliocraft.cfg "blocks enabled" B:Typewriter=false
+bibliocraft.cfg "blocks enabled" B:WaypointCompass=false
+
 ironchest.cfg enable-disable B:"Add Shulker Boxes to Creative Menu"=true
 ironchest.cfg enable-disable B:"Enable Shulker Box Recipes"=true
 randompatches.cfg client B:dismountKeybind=false
