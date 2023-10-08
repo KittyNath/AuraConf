@@ -79,6 +79,10 @@ inspirations.cfg utility B:redstoneBarrel=false
 ironchest.cfg enable-disable B:"Add Shulker Boxes to Creative Menu"=true
 ironchest.cfg enable-disable B:"Enable Shulker Box Recipes"=true
 
+// knapm
+
+knapm/knapm.cfg general B:modInfosOnLog=false
+
 // LetMeSleep
 
 letmesleep.cfg general.general B:"Always Set Spawn"=true
@@ -149,6 +153,29 @@ randompatches.cfg client.window S:icon16=config/icons/client_icon-16x16.png
 randompatches.cfg client.window S:icon32=config/icons/client_icon-32x32.png
 randompatches.cfg client.window S:icon256=config/icons/client_icon-256x256.png
 randompatches.cfg client.window S:title=Minecraft 1.12.2 - Aura modpack [v0.6.0]
+
+// RandomTweaks
+
+randomtweaks/randomtweaks.cfg animals B:protectPetsFromSneakingOwners=true
+randomtweaks/randomtweaks.cfg client B:clearWater=false
+randomtweaks/randomtweaks.cfg client B:disableEnderDragonDeathSound=true
+randomtweaks/randomtweaks.cfg client B:disableWitherSpawnSound=true
+randomtweaks/randomtweaks.cfg client B:startOnMultiplayerScreen=true
+randomtweaks/randomtweaks.cfg client B:togglePotionParticlesKeybind=false
+randomtweaks/randomtweaks.cfg client.autoThirdPerson B:elytra=false
+randomtweaks/randomtweaks.cfg client.autoThirdPerson B:enabled=false
+randomtweaks/randomtweaks.cfg client.autoThirdPerson B:wings=false
+randomtweaks/randomtweaks.cfg client.keybinds B:reloadSoundSystem=false
+randomtweaks/randomtweaks.cfg client.keybinds B:toggleFoVChanges=false
+randomtweaks/randomtweaks.cfg client.keybinds B:toggleTimeOfDayOverlay=false
+randomtweaks/randomtweaks.cfg client.nightVision D:brightness=0.800000011920929
+randomtweaks/randomtweaks.cfg cobwebBurning B:enableBurning=true
+randomtweaks/randomtweaks.cfg commands B:disconnect=false
+randomtweaks/randomtweaks.cfg hunger B:carryExcessHungerToSaturation=true
+randomtweaks/randomtweaks.cfg misc B:burningArrowsSetBlocksOnFire=false
+randomtweaks/randomtweaks.cfg misc B:betterButtonNames=true
+randomtweaks/randomtweaks.cfg misc S:farmlandTrampleBehavior=DONT_TRAMPLE
+randomtweaks/randomtweaks.cfg sleep I:nearbyMonsterGlowDuration=40
 
 // RecipeHandler
 
