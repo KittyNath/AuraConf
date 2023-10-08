@@ -1,3 +1,5 @@
+// BiblioCraft
+
 bibliocraft.cfg "blocks enabled" B:AtlasEternalCompass=false
 bibliocraft.cfg "blocks enabled" B:BigBook=false
 bibliocraft.cfg "blocks enabled" B:DeskBell=false
@@ -15,6 +17,127 @@ bibliocraft.cfg "blocks enabled" B:Tapemeasure=false
 bibliocraft.cfg "blocks enabled" B:Typewriter=false
 bibliocraft.cfg "blocks enabled" B:WaypointCompass=false
 
+bibliocraft.cfg general B:EnableCraftingWithRecipieBooks=false
+bibliocraft.cfg general B:EnableLockAndKeyRecipe=false
+
+// Chiesels & Bits
+
+chiselsandbits.cfg items B:enableBitSaw=false
+chiselsandbits.cfg items B:enableGoldChisel=false
+chiselsandbits.cfg items B:enableIronChisel=false
+chiselsandbits.cfg items B:enableStoneChisel=false
+chiselsandbits.cfg items B:enableTapeMeasure=false
+
+// FastFurnace
+
+fastfurnace.cfg general B:"Strict Matching"=true
+
+// HarvestCraft
+
+harvestcraft.cfg beekeeping B:enableBeehiveGeneration=false
+harvestcraft.cfg "food items" B:makeWheatEdible=true
+harvestcraft.cfg general B:enablevanillafoodBalance=false
+
+// Inspirations
+
+inspirations.cfg tools S:crook=false
+inspirations.cfg tools B:lock=false
+inspirations.cfg tools B:photometer=false
+inspirations.cfg tweaks B:customPortalColor=false
+inspirations.cfg tweaks B:moreSeeds=false
+inspirations.cfg utility B:collector=false
+inspirations.cfg utility B:redstoneBarrel=false
+
+// IronChest
+
 ironchest.cfg enable-disable B:"Add Shulker Boxes to Creative Menu"=true
 ironchest.cfg enable-disable B:"Enable Shulker Box Recipes"=true
+
+// LetMeSleep
+
+letmesleep.cfg general.general B:"Always Set Spawn"=true
+letmesleep.cfg general.general S:"Set Respawn Point"=BUTTON
+letmesleep.cfg general.general B:"Spawn Monster"=false
+letmesleep.cfg general.sleep_timings I:"Bedtime End"=24000
+letmesleep.cfg general.sleep_timings I:"Bedtime Start"=0
+letmesleep.cfg general.sleep_timings B:"Sleep During Rain"=true
+letmesleep.cfg general.sleep_timings B:"Sleep During Thunder"=true
+letmesleep.cfg general.sleep_timings B:"Instant Sleeping"=false
+letmesleep.cfg general.sleep_timings B:"Time 12h Format"=false
+letmesleep.cfg general.sleeping_checks I:"Glow Duration"=80
+letmesleep.cfg general.sleeping_checks B:"Glowing Monsters"=true
+letmesleep.cfg general.sleeping_checks B:"Monster Check"=true
+letmesleep.cfg general.sleeping_checks B:"Named Monsters"=false
+letmesleep.cfg general.sleeping_checks B:"Obstruction Check"=true
+letmesleep.cfg general.sleeping_checks B:"Persistent Monsters"=false
+letmesleep.cfg general.sleeping_checks B:"Range Check"=false
+letmesleep.cfg general.wake_up_actions B:"Persistent Chat"=true
+
+// Placebo
+
+placebo.cfg general B:"Fast Shapeless Recipes"=true
+
+// Quark
+
+quark.cfg automation B:"Ender watcher"=false
+quark.cfg client B:"Auto jump hotkey"=false
+quark.cfg client B:"Chest search bar"=false
+quark.cfg client B:"Creepers turn red when they're exploding"=false
+quark.cfg client B:"Greener grass"=false
+quark.cfg client B:"Improved sign edit"=false
+quark.cfg client B:"Random animal textures"=false
+quark.cfg client B:"Show invalid slots"=false
+quark.cfg client."better vanilla textures" B:"Enable Pumpkin Front Face"=false
+quark.cfg decoration B:"Place blaze rods"=false
+quark.cfg decoration."varied bookshelves" B:"Rename vanilla bookshelves to Oak Bookshelf"=false
+quark.cfg decoration."varied chests" B:"Enable Conversion to Vanilla Chests"=false
+quark.cfg experimental B:"Bigger caves"=true
+quark.cfg management B:"Automatic tool restock"=false
+quark.cfg management B:"Press Ctrl-DELETE in the inventory to delete an item"=false
+quark.cfg management B:"Press F in the inventory to switch item to main hand"=false
+quark.cfg management B:"Store to chests"=false
+quark.cfg misc B:"Endermites into shulkers"=false
+quark.cfg misc B:"Named snow golems with pumpkins drop player heads if killed by a witch"=false
+quark.cfg misc B:Pickarang=false
+quark.cfg misc B:"Throwable dragon breath"=false
+quark.cfg misc."place vanilla dusts" I:"Gunpowder Delay"=5
+quark.cfg misc."place vanilla dusts" I:"Gunpowder Delay on Netherrack"=5
+quark.cfg misc."extra potions" B:"Enable Danger Sight Potion"=false
+quark.cfg misc."extra potions" B:"Force Clownfish for Danger Sight"=false
+quark.cfg misc."extra potions" B:"Force Quartz for Resistance"=false
+quark.cfg misc."color runes" B:"Enable Rainbow Rune in Chests"=false
+quark.cfg misc."color runes" B:"Stackable Runes"=false
+quark.cfg misc."reacharound placing" D:Leniency=0.5
+quark.cfg oddities B:"Matrix enchanting"=false
+quark.cfg tweaks."compasses work everywhere" B:"Enable Clock Fix"=true
+quark.cfg tweaks."compasses work everywhere" B:"Enable Compass Fix"=true
+quark.cfg tweaks."compasses work everywhere" B:"Enable End Compass"=true
+quark.cfg tweaks."compasses work everywhere" B:"Enable Nether Compass"=true
+quark.cfg vanity."emote system" B:"Enable Keybinds"=false
+
+// RandomPatches
+
 randompatches.cfg client B:dismountKeybind=false
+randompatches.cfg client B:narratorKeybind=false
+randompatches.cfg client.window S:icon16=config/icons/client_icon-16x16.png
+randompatches.cfg client.window S:icon32=config/icons/client_icon-32x32.png
+randompatches.cfg client.window S:icon256=config/icons/client_icon-256x256.png
+randompatches.cfg client.window S:title=Minecraft 1.12.2 - Aura modpack [v0.6.0]
+
+// RecipeHandler
+
+recipehandler.cfg client B:"Enable Craft In Creative Inventory"=true
+
+// Spiders 2.0
+
+spiders-2.0.cfg general B:path_finder_debug_preview=false
+
+// VTweaks
+
+vtweaks.cfg general.miscellaneous B:"Enable Welcome Message"=false
+vtweaks.cfg general.miscellaneous I:"Food Tooltips"=0
+
+// WitherSkeletonTweaks
+
+wither_skeleton_tweaks.cfg general B:"Enable Blaze Immolation Blade"=false
+wither_skeleton_tweaks.cfg general B:"Enable Lava Immolation Blade"=false
