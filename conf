@@ -156,7 +156,7 @@ randompatches.cfg client B:narratorKeybind=false
 randompatches.cfg client.window S:icon16=config/icons/client_icon-16x16.png
 randompatches.cfg client.window S:icon32=config/icons/client_icon-32x32.png
 randompatches.cfg client.window S:icon256=config/icons/client_icon-256x256.png
-randompatches.cfg client.window S:title=Minecraft 1.12.2 - Aura modpack [v0.6.0]
+randompatches.cfg client.window S:title=Minecraft 1.12.2 - Aura modpack [v0.6.1]
 
 // RandomTweaks
 
