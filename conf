@@ -79,6 +79,10 @@ inspirations.cfg utility B:redstoneBarrel=false
 ironchest.cfg enable-disable B:"Add Shulker Boxes to Creative Menu"=true
 ironchest.cfg enable-disable B:"Enable Shulker Box Recipes"=true
 
+// JEI
+
+jei/jei.cfg search S:colorSearchMode=ENABLED
+
 // knapm
 
 knapm/knapm.cfg general B:modInfosOnLog=false
@@ -184,6 +188,16 @@ recipehandler.cfg client B:"Enable Craft In Creative Inventory"=true
 // Spiders 2.0
 
 spiders-2.0.cfg general B:path_finder_debug_preview=false
+
+// ToastControl
+
+toastcontrol.cfg "toast types" B:"Disable All"=true
+toastcontrol.cfg "toast types" B:"Translucent Toasts"=true
+
+// VanillaFix
+
+vanillafix.cfg crashes B:disableReturnToMainMenu=false
+vanillafix.cfg crashes S:scheduledTaskproblemAction=LOG
 
 // VTweaks
 
