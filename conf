@@ -54,7 +54,7 @@ gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/dis
 gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the reach modifier"=false
 gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the speed modifier"=false
 gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Enable/disable the strength modifier"=false
-gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Player render is more normal at small sizes, but may cause problems with other mods"=false
+gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" B:"Player render is more normal at small sizes, but may cause problems with other mods"=true
 gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" S:"Set the health multiplier"=1.0
 gulliverreborn/gulliverreborn.cfg "gulliver reborn config options" S:"Set the maximum player size"=2.0
 
